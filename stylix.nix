@@ -32,8 +32,7 @@ in
           urgent = mkDefault { color = base08; };
         };
         shadow = {
-          color = mkDefault base0D;
-          inactive-color = mkDefault base03;
+          color = mkDefault base03;
         };
         tab-indicator = {
           active = mkDefault { color = base0D; };
